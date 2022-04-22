@@ -8,8 +8,8 @@
 
 ## **Feature List**
 
-* Ability to add/update note settings from configuration menu.
-* Apply notes to any spree table or add notes to custom table.
+* Ability to configure note settings from spree configuration menu.
+* Apply notes to orders, products, users or extend this for any custom table. 
 
 ## **Installation**
 
